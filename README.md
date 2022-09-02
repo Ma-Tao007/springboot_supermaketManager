@@ -1,11 +1,12 @@
 本系统为基于spingboot的进存销管理系统
 
-CSDN博客地址：https://blog.csdn.net/m0_47220500/article/details/125134209
+项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
+
+![公众号二维码](./运行截图/wechat.png)
+
+CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/117293427
 
 B站运行视频：暂无
-
-项目下载地址：http://shiyuncode.com/details?id=5
-
 
 
 技术：SpringBoot+LayUI+MySQL+Shiro+MybatisPlus+Echarts
